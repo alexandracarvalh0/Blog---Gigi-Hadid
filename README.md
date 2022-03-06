@@ -1,6 +1,6 @@
 # Blog_Gigi-Hadid
 
-Fiz um Blog com a Gigi Hadid como exemplo .<br>
+Fiz um Blog com a Gigi Hadid como exemplo.<br>
 Mostro aqui um pouco do website:
 
 ![1](https://user-images.githubusercontent.com/99768956/156936154-72e20946-319d-43bf-b77a-8cc79ddc0db8.png)
